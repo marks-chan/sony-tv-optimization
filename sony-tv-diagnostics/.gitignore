@@ -1,0 +1,11 @@
+.venv/
+.auth/
+*.png
+*.json
+*.apk
+*.xml
+*.txt
+*.html
+*.js
+__pycache__/
+downloads/

@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Keep raw device captures, credentials, and downloaded APKs local.
+sony-tv-diagnostics/*
+!sony-tv-diagnostics/.gitignore
+!sony-tv-diagnostics/*.py
